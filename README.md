@@ -28,14 +28,15 @@ O projeto simula uma partida de Truco utilizando conceitos de orientação a obj
 * Encapsulamento das entidades do jogo
 * Facilidade de extensão (novas regras ou funcionalidades podem ser adicionadas sem grandes alterações)
 
-# Como executar
-1º Servidor
+## Como executar
+* 1º Servidor ->
 java TrucoServer
-2º Cliente
+* 2º Cliente ->
 java TrucoClient
 
-Certifique-se de iniciar o servidor antes de conectar os quatro clientes.
+* Certifique-se de iniciar o servidor antes de conectar os quatro clientes.
 
 # Autor
 
-Pedro Lucas
+* Pedro Lucas
+* Não usei IA para codar, pois fiz o truco puramente para aprendizado.
